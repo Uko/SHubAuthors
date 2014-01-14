@@ -3,7 +3,9 @@
 		'Alexandre.Bergel',
 		'Alexandre.bergel',
 		'AlexandreBergel',
-		'Alexandre Bergel'
+		'Alexandre Bergel',
+		'AlexandreBerge',
+		'alexandre@bergel.eu'
 	],
 	'JeanBaptisteArnaud' : [
 		'jeanbaptistearnaud',
@@ -14,7 +16,8 @@
 		'jeanbaptistearnaud123',
 		'jenabaptistearnaud',
 		'jeanbaptistearanud',
-		'jeanbaptistearnuad'
+		'jeanbaptistearnuad',
+		'arnaudjeanbaptiste'
 	],
 	'WernerKassens' : [
 		'WernerKassens',
@@ -98,7 +101,11 @@
 	   'marcusDenker',
 	   'marcus.denker',
 	   'Marcus.Denker',
-	   'MarcusDenker'
+	   'MarcusDenker',
+	   'MarcusDenker\',
+	   'MarcusDenjer',
+	   'MarcusDenier',
+	   'MarcusDenler'
 	],
 	'CyrilleDelaunay' : [
 	   'cyrilledelaunay',
@@ -112,5 +119,62 @@
 	   'adrianLienhard',
 	   'adrian lienhard',
 	   'adrian-lienhard'
+	],
+	'StephaneDucasse' : [
+	   'StephaneDucasse',
+	   'stephaneducasse',
+	   'stephaneDucasse',
+	   'stephane.ducasse',
+	   'StephaneDucass',
+	   'stephanDucasse'
+	],
+	'TommasoDalSasso' : [
+	   'TommasoDalSasso',
+	   'dalsat'
+	],
+	'simondenier' : [
+	   'simon.denier',
+	   'simondenier',
+	   'simon_denier'
+	],
+	'BenjaminVanRyseghem' : [
+	   'BenjaminVanRysghem',
+	   'BenjaminVanRysgehem',
+	   'BenjaminVanRyseghem',
+	   'BenjaminVanRysehem'
+	],
+	'IgorStasenko' : [
+	   'igorStasenko',
+	   'IgorStasenko',
+	   'Igor.Stasenko'
+	],
+	'GuillaumeLarcheveque' : [
+	   'guillaumelarcheveque',
+	   'guillaumeLarcheveque',
+	   'GuillaumeLarcheveque'
+	],
+	'DamienPollet' : [
+	   'damien.pollet',
+	   'damienpollet',
+	   'DamienPollet',
+	   'cdlm'
+	],
+	'OscarNierstrasz' : [
+	   'onierstrasz',
+	   'OscarNierstrasz',
+	   'oscar.nierstrasz'
+	],
+	'MichaelRuefenacht' : [
+	   'michaelrufenacht',
+	   'michaelruefenacht',
+	   'MichaelRuefenacht'
+	],
+	'NicolasAnquetil' : [
+	   'NicolasAnquetil',
+	   'Nicolasanquetil' 
+	],
+	'SabineKnoefel' : [
+	   'SabineKnoefel',
+	   'sabineknoefel' 
 	]
 }
