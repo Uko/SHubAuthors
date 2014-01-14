@@ -1,180 +1,188 @@
 {
-	'AlexandreBergel' : [
-		'Alexandre.Bergel',
-		'Alexandre.bergel',
-		'AlexandreBergel',
-		'Alexandre Bergel',
-		'AlexandreBerge',
-		'alexandre@bergel.eu'
-	],
-	'JeanBaptisteArnaud' : [
-		'jeanbaptistearnaud',
-		'JeanBaptisteArnaud',
-		'jeanbaptisteArnaud',
-		'jeanBaptisteArnaud',
-		'JeanBaptiste Arnaud',
-		'jeanbaptistearnaud123',
-		'jenabaptistearnaud',
-		'jeanbaptistearanud',
-		'jeanbaptistearnuad',
-		'arnaudjeanbaptiste'
-	],
-	'WernerKassens' : [
-		'WernerKassens',
-		'wernerkassens'
-	],
-	'MarianoMartinezPeck' : [
-		'MarianoMartinezPekc',
-		'MarianoMartinezPeck'
-	],
-	'Janniklaval' : [
-		'Janniklaval',
-		'janniklaval',
-		'jannikLaval',
-		'jannik.laval',
-		'Jannik.Laval',
-		'janniklava'
-	],
-	'SebastienAudier' : [
-		'SebastienAudier',
-		'SbastienAudier'
-	],
-	'FabrizioPerin' : [
-	    'FAbrizioPerin',
-		'fabrizioPerin',
-		'FabrizioPErin',
-		'FabrizioPerin',
-		'fabrizio_perin',
-		'FabrizioPeri'
-	],
-	'JulioHurtado' : [
-	    'Julio.Hurtado',
-		'JulioHurtado',
-		'juliohurtado',
-		'Julio Hurtado'
-	],
-	'AlainPlantec' : [
-	    'Alainplantec',
-	    'AlainPlantec',
-	    'alain.plantec',
-	    'AlainPantec'
-	],
-	'Lukas Renggli' : [
-	    'lukas.renggli',
-	    'Lukas Renggli',
-	    'lr'
-	],
-	'BenjaminArezki' : [
-	    'BenjaminArezki',
-	    'BenjaminAREZKI'
-	],
-	'CamilloBruni' : [
-	    'CamilloBrunui',
-	    'CamilloBruni',
-	    'Camillobruni',
-	    'CAmilloBruni',
-	    'CamilloBrun'
-	],
-	'usmanbhatti' : [
-	    'usmanbhatti',
-	    'usmnabhatti'
-	],
-	'TudorGirba' : [
-	    'TudorGriba',
-	    'TudorGirba',
-	    'tg'
-	],
-	'JulioHurtado' : [
-	    'Julio Hurtado',
-	    'JulioHurtado',
-	    'juliohurtado',
-	    'Julio.Hurtado'
-	],
-	'ClementBera' : [
-	   'ClementBer',
-	   'ClemenTBera',
-	   'ClementBera',
-	   'ClementBEra'
-	],
-	'MarcusDenker' : [
-	   'Marcus Denker',
-	   'marcusDenker',
-	   'marcus.denker',
-	   'Marcus.Denker',
-	   'MarcusDenker',
-	   'MarcusDenker\\',
-	   'MarcusDenjer',
-	   'MarcusDenier',
-	   'MarcusDenler'
-	],
-	'CyrilleDelaunay' : [
-	   'cyrilledelaunay',
-	   'CyrilleDelaunay',
-	   'cyrille.delaunay'
-	],
-	'AdrianLienhard' : [
-	   'adrian.lienhard',
-	   'adrian_lienhard',
-	   'AdrianLienhard',
-	   'adrianLienhard',
-	   'adrian lienhard',
-	   'adrian-lienhard'
-	],
-	'StephaneDucasse' : [
-	   'StephaneDucasse',
-	   'stephaneducasse',
-	   'stephaneDucasse',
-	   'stephane.ducasse',
-	   'StephaneDucass',
-	   'stephanDucasse'
-	],
-	'TommasoDalSasso' : [
-	   'TommasoDalSasso',
-	   'dalsat'
-	],
-	'simondenier' : [
-	   'simon.denier',
-	   'simondenier',
-	   'simon_denier'
-	],
-	'BenjaminVanRyseghem' : [
-	   'BenjaminVanRysghem',
-	   'BenjaminVanRysgehem',
-	   'BenjaminVanRyseghem',
-	   'BenjaminVanRysehem'
-	],
-	'IgorStasenko' : [
-	   'igorStasenko',
-	   'IgorStasenko',
-	   'Igor.Stasenko'
-	],
-	'GuillaumeLarcheveque' : [
-	   'guillaumelarcheveque',
-	   'guillaumeLarcheveque',
-	   'GuillaumeLarcheveque'
-	],
-	'DamienPollet' : [
-	   'damien.pollet',
-	   'damienpollet',
-	   'DamienPollet',
-	   'cdlm'
-	],
-	'OscarNierstrasz' : [
-	   'onierstrasz',
-	   'OscarNierstrasz',
-	   'oscar.nierstrasz'
-	],
-	'MichaelRuefenacht' : [
-	   'michaelrufenacht',
-	   'michaelruefenacht',
-	   'MichaelRuefenacht'
-	],
-	'NicolasAnquetil' : [
-	   'NicolasAnquetil',
-	   'Nicolasanquetil' 
-	],
-	'SabineKnoefel' : [
-	   'SabineKnoefel',
-	   'sabineknoefel' 
-	]
+  'AlexandreBergel' : [
+    'Alexandre.Bergel',
+    'Alexandre.bergel',
+    'AlexandreBergel',
+    'Alexandre Bergel',
+    'AlexandreBerge',
+    'alexandre@bergel.eu'
+  ],
+  'JeanBaptisteArnaud' : [
+    'jeanbaptistearnaud',
+    'JeanBaptisteArnaud',
+    'jeanbaptisteArnaud',
+    'jeanBaptisteArnaud',
+    'JeanBaptiste Arnaud',
+    'jeanbaptistearnaud123',
+    'jenabaptistearnaud',
+    'jeanbaptistearanud',
+    'jeanbaptistearnuad',
+    'arnaudjeanbaptiste'
+  ],
+  'WernerKassens' : [
+    'WernerKassens',
+    'wernerkassens'
+  ],
+  'MarianoMartinezPeck' : [
+    'MarianoMartinezPekc',
+    'MarianoMartinezPeck'
+  ],
+  'Janniklaval' : [
+    'Janniklaval',
+    'janniklaval',
+    'jannikLaval',
+    'jannik.laval',
+    'Jannik.Laval',
+    'janniklava'
+  ],
+  'SebastienAudier' : [
+    'SebastienAudier',
+    'SbastienAudier'
+  ],
+  'FabrizioPerin' : [
+      'FAbrizioPerin',
+    'fabrizioPerin',
+    'FabrizioPErin',
+    'FabrizioPerin',
+    'fabrizio_perin',
+    'FabrizioPeri'
+  ],
+  'JulioHurtado' : [
+    'Julio.Hurtado',
+    'JulioHurtado',
+    'juliohurtado',
+    'Julio Hurtado'
+  ],
+  'AlainPlantec' : [
+    'Alainplantec',
+    'AlainPlantec',
+    'alain.plantec',
+    'AlainPantec'
+  ],
+  'Lukas Renggli' : [
+    'lukas.renggli',
+    'Lukas Renggli',
+    'lr'
+  ],
+  'BenjaminArezki' : [
+    'BenjaminArezki',
+    'BenjaminAREZKI'
+  ],
+  'CamilloBruni' : [
+    'CamilloBrunui',
+    'CamilloBruni',
+    'Camillobruni',
+    'CAmilloBruni',
+    'CamilloBrun'
+  ],
+  'usmanbhatti' : [
+    'usmanbhatti',
+    'usmnabhatti'
+  ],
+  'TudorGirba' : [
+    'TudorGriba',
+    'TudorGirba',
+    'tg'
+  ],
+  'JulioHurtado' : [
+    'Julio Hurtado',
+    'JulioHurtado',
+    'juliohurtado',
+    'Julio.Hurtado'
+  ],
+  'ClementBera' : [
+    'ClementBer',
+    'ClemenTBera',
+    'ClementBera',
+    'ClementBEra'
+  ],
+  'MarcusDenker' : [
+    'Marcus Denker',
+    'marcusDenker',
+    'marcus.denker',
+    'Marcus.Denker',
+    'MarcusDenker',
+    'MarcusDenker\\',
+    'MarcusDenjer',
+    'MarcusDenier',
+    'MarcusDenler'
+  ],
+  'CyrilleDelaunay' : [
+    'cyrilledelaunay',
+    'CyrilleDelaunay',
+    'cyrille.delaunay'
+  ],
+  'AdrianLienhard' : [
+    'adrian.lienhard',
+    'adrian_lienhard',
+    'AdrianLienhard',
+    'adrianLienhard',
+    'adrian lienhard',
+    'adrian-lienhard'
+  ],
+  'StephaneDucasse' : [
+    'StephaneDucasse',
+    'stephaneducasse',
+    'stephaneDucasse',
+    'stephane.ducasse',
+    'StephaneDucass',
+    'stephanDucasse'
+  ],
+  'TommasoDalSasso' : [
+    'TommasoDalSasso',
+    'dalsat'
+  ],
+  'simondenier' : [
+    'simon.denier',
+    'simondenier',
+    'simon_denier'
+  ],
+  'BenjaminVanRyseghem' : [
+    'BenjaminVanRysghem',
+    'BenjaminVanRysgehem',
+    'BenjaminVanRyseghem',
+    'BenjaminVanRysehem'
+  ],
+  'IgorStasenko' : [
+    'igorStasenko',
+    'IgorStasenko',
+    'Igor.Stasenko'
+  ],
+  'GuillaumeLarcheveque' : [
+    'guillaumelarcheveque',
+    'guillaumeLarcheveque',
+    'GuillaumeLarcheveque'
+  ],
+  'DamienPollet' : [
+    'damien.pollet',
+    'damienpollet',
+    'DamienPollet',
+    'cdlm'
+  ],
+  'OscarNierstrasz' : [
+    'onierstrasz',
+    'OscarNierstrasz',
+    'oscar.nierstrasz'
+  ],
+  'MichaelRuefenacht' : [
+    'michaelrufenacht',
+    'michaelruefenacht',
+    'MichaelRuefenacht'
+  ],
+  'NicolasAnquetil' : [
+    'NicolasAnquetil',
+    'Nicolasanquetil' 
+  ],
+  'SabineKnoefel' : [
+    'SabineKnoefel',
+    'sabineknoefel' 
+  ],
+  'SebastianTleye' : [
+    'SebastianTleye',
+    'stleye'
+  ],
+  'HwaJong' : [
+    'HwaJong',
+    'hjo'
+  ]
 }
