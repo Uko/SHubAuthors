@@ -17,7 +17,8 @@
     'jenabaptistearnaud',
     'jeanbaptistearanud',
     'jeanbaptistearnuad',
-    'arnaudjeanbaptiste'
+    'arnaudjeanbaptiste',
+    'jb'
   ],
   'WernerKassens' : [
     'WernerKassens',
@@ -37,7 +38,8 @@
   ],
   'SebastienAudier' : [
     'SebastienAudier',
-    'SbastienAudier'
+    'SbastienAudier',
+    'sa'
   ],
   'FabrizioPerin' : [
       'FAbrizioPerin',
@@ -105,7 +107,8 @@
     'MarcusDenker\\',
     'MarcusDenjer',
     'MarcusDenier',
-    'MarcusDenler'
+    'MarcusDenler',
+    'md'
   ],
   'CyrilleDelaunay' : [
     'cyrilledelaunay',
@@ -184,5 +187,21 @@
   'HwaJong' : [
     'HwaJong',
     'hjo'
+  ],
+  'DaleHenrichs' : [
+    'DaleHenrichs',
+    'dkh'
+  ],
+  'CarlaGriggio' : [
+    'CarlaGriggio',
+    'carlaGriggio'
+  ],
+  'JulesIvanic' : [
+    'JulesIvanic',
+    'JulesIVANIC'
+  ],
+  'miltonMamani' : [
+    'miltonmamani',
+    'miltonMamani'
   ]
 }
