@@ -79,7 +79,8 @@
   ],
   'usmanbhatti' : [
     'usmanbhatti',
-    'usmnabhatti'
+    'usmnabhatti',
+    'ub'
   ],
   'TudorGirba' : [
     'TudorGriba',
@@ -205,5 +206,13 @@
   'miltonMamani' : [
     'miltonmamani',
     'miltonMamani'
+  ],
+  'ChrisCunningham' : [
+    'ChrisCunningham',
+    'cbc'
+  ],
+  'jorge.ressia' : [
+    'jorge.ressia',
+    'jre'
   ]
 }
